@@ -3,6 +3,9 @@ server:
 spring:
   application:
     name: product
+  rabbitmq:
+    username: user
+    password: user
 eureka:
   client:
     service-url:
