@@ -1,4 +1,7 @@
 spring:
+  rabbitmq:
+    username: user
+    password: user
   application:
     name: order
 server:
