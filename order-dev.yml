@@ -15,4 +15,4 @@ server:
   instance:
       hostname: localhost
       
-environment: dev222
+environment: dev
