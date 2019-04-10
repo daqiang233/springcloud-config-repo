@@ -13,3 +13,5 @@ eureka:
       hostname: localhost
       
 environment: dev
+
+branch: release
