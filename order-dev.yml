@@ -15,4 +15,4 @@ server:
   instance:
       hostname: localhost
       
-environment: xxxxx
+environment: order-dev
